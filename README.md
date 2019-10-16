@@ -50,3 +50,5 @@
 
 格式： `fengdu78, Data-Science-Notes, (2019), GitHub repository, https://github.com/fengdu78/Data-Science-Notes`
 
+[参考网址：首发：适合初学者入门人工智能的路线及资料下载](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247484737&idx=1&sn=27c52b4bc4ca98d3ab817344b84226cc&chksm=97048efda07307eb78d4f4ec0039a386a658404156b051af0cb715fafa8d2ae66cbe49343bf3&mpshare=1&scene=23&srcid=&sharer_sharetime=1571184784458&sharer_shareid=18cb121df0b3138614d2982741de80ad#rd)
+
